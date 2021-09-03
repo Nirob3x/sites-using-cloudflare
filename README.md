@@ -99,6 +99,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [zendesk.com](http://zendesk.com) ([Zendesk post and updates | no leaked data found](https://support.zendesk.com/hc/en-us/articles/115003535408))
 - [uber.com](http://uber.com)
 - [poloniex.com](http://poloniex.com)
+- [VoiceBharat.com](https://voicebharat.com)
 - [localbitcoins.com](http://localbitcoins.com)
 - [kraken.com](http://kraken.com)
 - [23andme.com](http://23andme.com)
